@@ -1,0 +1,23 @@
+{"fog-drawings": {
+    "settings": {
+        "fogDrawingDefaultDataMenu": {
+            "name": "Set Default Fog Drawing Colors",
+            "label": "Customize"
+        },
+        "showTokensOverDrawings": {
+            "name": "Show Tokens Over Fog Drawings",
+            "hint": "Tokens in fog drawings should always be hidden regardless of this setting."
+        },
+        "blurFogDrawings": {
+            "name": "Blur Fog Drawing Edges",
+            "hint": "Disabling may improve performance. Only displayed for non-GM users."
+        }
+    },
+    "menu": {
+        "title": "Default Fog Drawing Data"
+    },
+    "controls": {
+        "title": "Fog Drawing Tools",
+        "toolTitle": "Player View"
+    }
+}}
