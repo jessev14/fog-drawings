@@ -1,7 +1,7 @@
-![All Downloads](https://img.shields.io/github/downloads/jessev14/dnd5e-character-monitor/total?style=for-the-badge)
+![All Downloads](https://img.shields.io/github/downloads/jessev14/fog-drawings/total?style=for-the-badge)
 
-![Latest Release Download Count](https://img.shields.io/github/downloads/jessev14/dnd5e-character-monitor/latest/CM.zip)
-[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fdnd5e-character-monitor&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=dnd5e-character-monitor)
+![Latest Release Download Count](https://img.shields.io/github/downloads/jessev14/fog-drawings/latest/CM.zip)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Ffog-drawings&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=fog-drawings)
 
 Donations help support updates and new modules!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jessev14)
