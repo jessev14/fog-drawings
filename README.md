@@ -4,6 +4,7 @@
 [![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Ffog-drawings&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=fog-drawings)
 
 Donations help support updates and new modules!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jessev14)
 
 # Fog of War Drawings
