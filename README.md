@@ -12,7 +12,7 @@ This module implements a new drawing layer that lets GM users draw out areas of 
 
 The Fog Drawings layer is only accessible to GM users and contains drawings made in the same was as normal drawings. However, drawings made on this layer are displayed differently to player and GM users.
 
-GM users will see the drawing the way they are truly defined in Foundry. Player users will see the drawing as unexplored fog of war on the canvas. Note that this is just a visual representation of the drawing and does not actually function as fog of war, other than hiding the map and tokens in its area. If a GM users hides a Fog of War Drawing, that part of the map will be revealed to players.
+GM users will see the drawing the way they are truly defined in Foundry. Player users will see the drawing as unexplored fog of war on the canvas. Note that this is just a visual representation of the drawing and does not actually function as fog of war, other than hiding the map and tokens in its area. If a GM user hides a Fog of War Drawing, that part of the map will be revealed to players.
 
 <img src="/img/fog-drawings.png">
 
