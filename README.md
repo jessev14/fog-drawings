@@ -24,4 +24,4 @@ For best results, scenes using Fog of War Drawings should have Token Vision and 
 
 The new drawings layer is an extension of the core drawing layer and behaves essentially the same. When a drawing is created on this layer, it is flagged to indicate it is a Fog of War Drawing.
 
-The module patches `Drawing.refresh` to first check if the current drawing is a Fog of War Drawing. If so, it then draws the drawing elements differently depending if the current user is a GM or player.
+The module patches `Drawing.refresh` to first check if the current drawing is a Fog of War Drawing. If so, it then draws the Drawing elements differently depending on if the current user is a GM or player.
